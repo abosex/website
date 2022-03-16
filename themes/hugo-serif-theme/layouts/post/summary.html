@@ -1,0 +1,9 @@
+<div class="service service-summary">
+  <div class="service-content">
+    <div class="content">{{ .Date.Format "02/01/2006" }}</div>
+    <h2 class="service-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    <p>{{ .Content | plainify | htmlUnescape | truncate 120 "…" }}</p>
+  </div>
+</div>

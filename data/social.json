@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/abosex_ar/",
+        "image": "images/social/insta.svg"
+    },
+    {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/abogasex/",
+        "image": "images/social/face.svg"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/abosex_ar",
+        "image": "images/social/twitter.svg"
+    }
+]

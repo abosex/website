@@ -15,4 +15,10 @@ Si bien es notorio un incremento en la producción de normas jurídicas que invo
 
 En este contexto conflictivo surge nuestro colectivo, propiciando y resaltando la función crítica creativa del derecho en una dimensión activa.
 
+## ¿Quiénes integran AboSex?
+
+Somos un equipo interdisciplinario, que integran profesionales provenientes del derecho y las ciencias sociales y humanas con interés en aportar desde los propios saberes y experiencias.
+
+![]("/images/team/team.jpg")
+
 > :question: ¿Querés saber más? Conocé [nuestra agenda](/services/) de trabajo o visitá nuestro [blog](/post/).

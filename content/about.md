@@ -19,6 +19,6 @@ En este contexto conflictivo surge nuestro colectivo, propiciando y resaltando l
 
 Somos un equipo interdisciplinario, que integran profesionales provenientes del derecho y las ciencias sociales y humanas con interés en aportar desde los propios saberes y experiencias.
 
-![]("/images/team/team.jpg")
+![](/images/team/team.jpg/)
 
 > :question: ¿Querés saber más? Conocé [nuestra agenda](/services/) de trabajo o visitá nuestro [blog](/post/).

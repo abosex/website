@@ -11,5 +11,5 @@ title: Publicaciones
 En esta sección compartimos nuestras demandas y otros documentos de interés.
 
 
-> :mag_right: Buscar notas por [Etiqueta](../tags/)
+> :mag_right: Buscar notas por [Etiqueta](../tags/) o [Año de publicación](../years/)
 

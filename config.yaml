@@ -5,6 +5,7 @@ theme: hugo-serif-theme
 enableGitInfo: true
 taxonomies:
   tag: tags
+  year: years
 module:
   hugoVersion:
     extended: yes

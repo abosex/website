@@ -71,3 +71,4 @@ enableEmoji = true
 
 [taxonomies]
   tag = 'tags'
+  year = 'years'

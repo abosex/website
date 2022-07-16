@@ -29,6 +29,14 @@ params:
     meta_twitter_site: '@AboSex_ar'
   team:
     summary_large_truncate: 500
+  shareButtons:
+     size: small
+      networks:
+       - facebook
+       - twitter
+       - linkedin
+       - whatsapp
+       - email
 menu:
   footer:
     - name: Home
@@ -44,9 +52,6 @@ menu:
     - name: Somos
       url: /about/
       weight: 1
-    - name: Contacto
-      url: /contact/
-      weight: 4
     - name: Decimos
       url: /post/
       weight: 3

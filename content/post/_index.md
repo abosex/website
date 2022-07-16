@@ -6,8 +6,6 @@ intro_image_hide_on_mobile: false
 title: Publicaciones
 ---
 
-# Notas y publicaciones
-
 En esta sección compartimos nuestras demandas y otros documentos de interés.
 
 

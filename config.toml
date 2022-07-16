@@ -36,6 +36,10 @@ enableEmoji = true
   [params.footer]
     copyright_text = 'Web creada por <a class="zerostatic" href="https://www.linkedin.com/in/carolina-verena-franco-h%C3%A4ntzsch-8956918a/">Carolina Franco</a> con el soporte del tema gratuito de Hugo, <a class="zerostatic" href="https://github.com/zerostaticthemes/hugo-serif-theme">Serif</a>, de <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
+  [params.shareButtons]
+    size = "small"
+    networks = ["facebook", "twitter", "linkedin", "whatsapp", "email"]
+
 [menu]
   # Main Menu
   [[menu.main]]
@@ -47,11 +51,6 @@ enableEmoji = true
       name = "Somos"
       url = "/about/"
       weight = 1
-
-  [[menu.main]]
-      name = "Contacto"
-      url = "/contact/"
-      weight = 4
       
   [[menu.main]]
       name = "Decimos"

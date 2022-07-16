@@ -4,7 +4,7 @@ layout: contact
 title: Contacto
 ---
 
-:link: ¡Segunios en las redes sociales!
+:link: ¡Seguinos en las redes sociales!
 
 ### Facebook 
 

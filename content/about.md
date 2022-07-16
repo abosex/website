@@ -1,9 +1,9 @@
 ---
 date: "2018-02-22T17:01:34+07:00"
-title: ¿Quiénes somos?
+title: ""
 ---
 
-Conformamos un equipo de activistas legales comprometid*s con los derechos humanos y los derechos sexuales. Nos convoca la posibilidad de transformación social y política mediante nuestra incidencia crítica con el derecho.
+Nos conforma un equipo de activistas legales y políticos comprometid*s con los derechos humanos y los derechos sexuales. Nos convoca la posibilidad de transformación social y política mediante nuestra incidencia crítica con el derecho.
 
 Reinvindicamos la lucha política y el compromiso de tantxs que hicieron el camino antes que nosotrxs, en contextos mucho más adversos. Somos gracias a sus rebeliones.
 
@@ -17,7 +17,7 @@ En este contexto conflictivo surge nuestro colectivo, propiciando y resaltando l
 
 ## ¿Quiénes integran AboSex?
 
-Somos un equipo interdisciplinario, que integran profesionales provenientes del derecho y las ciencias sociales y humanas con interés en aportar desde los propios saberes y experiencias.
+Somos un equipo interdisciplinario, que integran profesionales y activistas provenientes del derecho y las ciencias sociales y humanas con interés en aportar desde los propios saberes y experiencias.
 
 ![](/images/team/team.jpg/)
 

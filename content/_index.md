@@ -3,7 +3,7 @@ description: Abogadxs por los derechos sexuales
 intro_image: images/illustrations/asterisco.jpg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-meta_title: Hugo Serif Theme
+meta_title: AboSex
 title: Homepage
 ---
 

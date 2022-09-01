@@ -4,11 +4,15 @@
         <div class="call-phone"><strong>Phone: </strong> {{ .site.Data.contact.phone }} </div>
     {{ end }}
     {{ if .site.Data.contact.email }}
-    <div class="call-email"><strong>Email: </strong>
+    <div class="call-email"><strong>¿Necesitás asesoramiento?</strong>
       <a href="mailto:{{ .site.Data.contact.email }}">
-        {{ .site.Data.contact.email }}
+        Podés escribirnos tu consulta.
       </a>
-    </div>
+          </div>
+              <br>Adelantamos disculpas si tardamos en responder: 
+              <br> estaremos haciendo lo mejor que podamos para evaluarla de manera adecuada. 
+              <br>Recibimos muchas preguntas! y las tomamos seriamente.
+
     {{ end }}
   </div>
     {{ if eq .show_button "true" }}

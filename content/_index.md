@@ -1,6 +1,6 @@
 ---
 description: Abogadxs por los derechos sexuales
-intro_image: images/illustrations/asterisco.jpg
+intro_image: images/illustrations/asterisco.png
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 meta_title: AboSex

@@ -7,7 +7,14 @@
       <div class="service service-single">
         <h1 class="title">{{.Title}}</h1>
         {{ partial "call.html" (dict "site" .Site "context" . "show_button" "false") }}
-        <div class="content mt-4">{{.Content}}</div>
+                   </div>
+          
+          <div class="content mt-4">{{.Content}}</div>
+          
+          {{ if .Site.Data.social }}
+            {{ partial "social.html" . }}
+          {{ end }}
+          
       </div>
     </div>
   </div>
